@@ -15,9 +15,9 @@ This tool will extend default BizTalk Server capabilities transforming the tedio
 # Description
 This tool allows you to create new ports on the BizTalk Server Administration Console with the following capabilities:
 * Create a new Receive Port based on an existing one;
-*  It will also export the binding file from that new Receive Port;
+  * It will also export the binding file from that new Receive Port;
 * Create a new Send Port based on an existing one;
-*  It will also export the binding file from that new Send Port;
+  *  It will also export the binding file from that new Send Port;
 * Generate different binding files for each environement
 
 # About US
