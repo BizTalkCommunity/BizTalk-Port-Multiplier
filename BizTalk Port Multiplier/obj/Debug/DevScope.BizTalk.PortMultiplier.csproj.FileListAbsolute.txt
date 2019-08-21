@@ -1,0 +1,15 @@
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\DevScope.BizTalk.PortMultiplier.exe.config
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\DevScope.BizTalk.PortMultiplier.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\DevScope.BizTalk.PortMultiplier.pdb
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\EPPlus.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Debug\EPPlus.xml
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Debug\BizTalk_Port_Multiplier.connectionForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Debug\BizTalk_Port_Multiplier.mainForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Debug\BizTalk_Port_Multiplier.Properties.Resources.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Debug\DevScope.BizTalk.PortMultiplier.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Debug\DevScope.BizTalk.PortMultiplier.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Debug\DevScope.BizTalk.PortMultiplier.pdb
