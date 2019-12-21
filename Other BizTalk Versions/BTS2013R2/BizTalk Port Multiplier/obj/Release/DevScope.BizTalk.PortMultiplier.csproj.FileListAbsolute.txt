@@ -1,0 +1,19 @@
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\DevScope.BizTalk.PortMultiplier.exe.config
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\DevScope.BizTalk.PortMultiplier.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\DevScope.BizTalk.PortMultiplier.pdb
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\EPPlus.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\bin\Release\EPPlus.xml
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\BizTalk_Port_Multiplier.connectionForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\BizTalk_Port_Multiplier.mainForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\BizTalk_Port_Multiplier.Properties.Resources.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.pdb
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\DevScope.BizTalk.PortMultiplier.exe.config
+C:\Development\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.exe
+C:\Development\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.pdb
