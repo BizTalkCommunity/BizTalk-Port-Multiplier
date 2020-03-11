@@ -13,3 +13,29 @@ C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\Bi
 C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.csproj.GenerateResource.Cache
 C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.exe
 C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.pdb
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\DevScope.BizTalk.PortMultiplier.exe.config
+C:\Development\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.exe
+C:\Development\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.pdb
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\DevScope.BizTalk.PortMultiplier.exe.config
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\DevScope.BizTalk.PortMultiplier.exe
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\DevScope.BizTalk.PortMultiplier.pdb
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\EPPlus.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\saxon9he-api.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\saxon9he.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\IKVM.OpenJDK.Core.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\IKVM.Runtime.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\IKVM.OpenJDK.Text.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\IKVM.OpenJDK.Charsets.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\IKVM.OpenJDK.Util.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\IKVM.OpenJDK.Security.dll
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\bin\Release\EPPlus.xml
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.csprojAssemblyReference.cache
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\BizTalk_Port_Multiplier.connectionForm.resources
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\BizTalk_Port_Multiplier.mainForm.resources
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\BizTalk_Port_Multiplier.Properties.Resources.resources
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.csproj.GenerateResource.cache
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.csproj.CopyComplete
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.exe
+C:\DEV\Pet Projects\DevScope.BizTalk.PortMultiplier\BizTalk Port Multiplier\obj\Release\DevScope.BizTalk.PortMultiplier.pdb
